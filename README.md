@@ -75,21 +75,25 @@ Visualizations
 1. Bar Chart
 
 Department-wise Performance
+<img width="640" height="476" alt="Screenshot 2026-06-04 144248" src="https://github.com/user-attachments/assets/0efea523-dbb5-4bcb-8520-4d1a09d74e5e" />
 
 Shows average marks of each department.
 2. Pie Chart
 
 Gender Distribution
+<img width="461" height="408" alt="Screenshot 2026-06-04 144715" src="https://github.com/user-attachments/assets/16fd06d7-14e0-401f-87fe-447107d6b8fc" />
 
 Displays percentage of male and female students.
 3. Histogram
 
 Average Marks Distribution
+<img width="561" height="452" alt="Screenshot 2026-06-04 144926" src="https://github.com/user-attachments/assets/0ab16092-5e7b-4bda-99a7-ddb7b57f6fc0" />
 
 Shows frequency distribution of average marks.
 4. Scatter Plot
 
 Attendance vs Average Marks
+<img width="580" height="457" alt="Screenshot 2026-06-04 144959" src="https://github.com/user-attachments/assets/8f80a512-299d-4e80-bad3-3193405e3746" />
 
 Analyzes relationship between attendance and academic performance.
 Sample Output
